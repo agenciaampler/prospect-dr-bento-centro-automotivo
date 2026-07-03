@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Diagnóstico e manutenção",
+    "hero_line": "Diagnóstico, freios e revisão com orientação clara para rodar melhor em Água Verde.",
+    "services_headline": "Diagnóstico antes da troca de peças.",
+    "services_intro": "A página da Dr. Bento Centro Automotivo mostra serviços, localização e WhatsApp em uma jornada simples, pensada para conversão mobile.",
+    "split_headline": "Primeiro entende o problema. Depois agenda.",
+    "confidence_headline": "Dr. Bento Centro Automotivo: nota 4,8 no Google, endereço claro e contato diret…",
+    "location_headline": "Rota para a Dr. Bento Centro Automotivo em Água Verde.",
+    "steps_headline": "Diagnosticar. Orientar. Agendar.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Falhas, ruídos e luz no painel avaliados com clareza antes do serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Itens de segurança para rodar firme no trânsito de Água Verde.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Manutenção planejada para evitar parada inesperada e gasto maior.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Dr. Bento Centro Automotivo recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para carros populares e multimarcas",
+            "body": "Marcas como Fiat, Chevrolet, Volkswagen, Renault, Hyundai aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Água Verde a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Dr. Bento Centro Automotivo pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca Fiat, Chevrolet, Volkswagen, Renault, Hyundai. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "R. Bento Viana, 213 - Água Verde, Curitiba - PR, 80240-110"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Dr. Bento Centro Automotivo.",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T07:43:17-03:00"
+}
